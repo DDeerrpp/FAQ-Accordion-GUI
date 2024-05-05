@@ -79,13 +79,13 @@ main {
     border-bottom: none;
 }
 
-.faq-question > span {
+.faq-question > div {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.faq-question > span > img:hover {
+.faq-question > div > img:hover {
     cursor: pointer;
 }
 
